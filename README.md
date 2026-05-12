@@ -1,17 +1,24 @@
-👋 Hi, I’m @Eda-01
+👋 Hi, I’m Eda!
+💻 Full Stack Developer | Passionate about building scalable, user-centric solutions and modern web applications.
 
-💻 I’m a passionate Full Stack Developer focused on building modern and responsive web applications.
+🌱 What I’m Working On
 
-🌱 Currently improving my skills in JavaScript, React, Node.js, and TypeScript, and diving deeper into backend architecture.
+Frontend: Deep diving into the React & TypeScript ecosystem to build performant and maintainable user interfaces.
 
-📱 I’m also interested in Mobile Development (React Native) and creating user-friendly cross-platform apps.
+Backend: Architecting robust APIs using Node.js, Express, and PostgreSQL (with experience in both Prisma and Knex).
 
-🎮 Gamer at heart — I love exploring game mechanics and I’m interested in game development with Unity & C#.
+AI & Innovation: Actively integrating AI-driven development tools into my workflow and exploring the potential of LLMs and AI agents in software engineering.
 
-💞️ I’m looking to collaborate on web, mobile, or game-related projects where I can learn and contribute.
+🚀 Why Collaborate With Me?
 
-📫 How to reach me: (buraya mail veya LinkedIn koyabilirsin)
+Legacy-to-Modern Mindset: I enjoy the challenge of understanding legacy systems, refactoring code, and migrating them to modern standards without breaking functionality.
 
+Product-Driven Development: I don't just write code; I focus on the "why" behind the features, as seen in my full-stack projects like OJS Nutrition.
+
+Agile Learner: My journey at OnlyJS Academy has sharpened my ability to rapidly adapt to new stacks and technical requirements.
+
+🎮 Beyond Coding
+I’m a gamer at heart. I love deconstructing game mechanics and experimenting with Unity & C#. Complex debugging sessions are always better with a fresh cup of coffee and a great game soundtrack! ☕🎧
+
+📫 Get in Touch: [Your LinkedIn Link] | [Your Email Address]
 😄 Pronouns: She/Her
-
-⚡ Fun fact: I debug better with coffee and game soundtracks ☕🎧
